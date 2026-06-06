@@ -1,6 +1,6 @@
 ---
 title: 输入读取方式
-published: 2026-06-6
+published: 2026-06-06
 description: cin,getline,get的使用
 tags: [getline,cin,get]
 image: ./images/繁星、飞鸟与鸢尾花.jpg
